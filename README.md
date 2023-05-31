@@ -15,7 +15,7 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 
 ## **Dataset used**
 
-- <a href="https://github.com/Krishnkumar542/The-time-series-analysis-and-sales-forecasting-of-US-based-Superstore/blob/main/SuperStore_Sales_Dataset.csv</a>
+- <a href="https://github.com/Krishnkumar542/The-time-series-analysis-and-sales-forecasting-of-US-based-Superstore/blob/main/SuperStore_Sales_Dataset.csv"</a>
 
 
 
