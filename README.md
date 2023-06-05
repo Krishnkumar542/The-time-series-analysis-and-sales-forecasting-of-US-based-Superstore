@@ -8,13 +8,13 @@ I would like to thank Rishabh Mishra sir for this type of amazing content and gu
 
 ## **Description**
 The objective can be broken down into the following detailed component.
-### **Dashboard creation:**
+#### **Dashboard creation:**
 Identify the KPIs, design an intuitive and visually appealing dashboard, and have interactive visualization and filtering capability to allow users to explore the data at various levels of granularity.
-### **Data analysis:**
+#### **Data analysis:**
 Provide valuable insights to business entities regarding the effectiveness of their strategies through visualization.
-### **Sales Forecasting:**
+#### **Sales Forecasting:**
 Leverage historic data and apply time series analysis to generate a sales forecast for the next 15 days.
-### **Actionable Insights:**
+#### **Actionable Insights:**
 The goal is to share valuable insights and actionable information that can drive strategic decisions making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
 ## **Dataset used**
