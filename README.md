@@ -10,7 +10,7 @@ I would like to thank Rishabh Mishra sir for this type of amazing content and gu
 The objective can be broken down into the following detailed component.
 1. Dashboard creation:
 Identify the KPIs, design an intuitive and visually appealing dashboard, and have interactive visualization and filtering capability to allow users to explore the data at various levels of granularity.
-2. Data analysis:**
+2. Data analysis:
 Provide valuable insights to business entities regarding the effectiveness of their strategies through visualization.
 3. Sales Forecasting:
 Leverage historic data and apply time series analysis to generate a sales forecast for the next 15 days.
